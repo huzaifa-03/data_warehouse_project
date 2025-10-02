@@ -25,8 +25,8 @@ Data Modeling
 Data Analytics
 
 🛠️ Important Links & Tools:
-. SQL Server Express: Lightweight server for hosting your SQL database.
-. DrawIO: Design data architecture, models, flows, and diagrams.
+1. SQL Server Express: Lightweight server for hosting your SQL database.
+2. DrawIO: Design data architecture, models, flows, and diagrams.
 
 🚀 Project Requirements
 Building the Data Warehouse (Data Engineering)
@@ -40,13 +40,13 @@ Specifications
 . Scope: Focus on the latest dataset only; historization of data is not required.
 . Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
-BI: Analytics & Reporting (Data Analysis)
-Objective
-Develop SQL-based analytics to deliver detailed insights into:
+1. BI: Analytics & Reporting (Data Analysis)
+2. Objective
+3. Develop SQL-based analytics to deliver detailed insights into:
 
-Customer Behavior
-Product Performance
-Sales Trends
+1. Customer Behavior
+2. Product Performance
+3. Sales Trends
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
 ## 📂 Repository Structure
