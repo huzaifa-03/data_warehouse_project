@@ -42,7 +42,7 @@ Specifications
 
 1. BI: Analytics & Reporting (Data Analysis)
 2. Objective
-3. Develop SQL-based analytics to deliver detailed insights into:
+Develop SQL-based analytics to deliver detailed insights into:
 
 1. Customer Behavior
 2. Product Performance
